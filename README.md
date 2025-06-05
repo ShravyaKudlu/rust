@@ -1,1 +1,1 @@
-Simple projects to apply rust
+# Simple projects to apply rust concepts
